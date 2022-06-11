@@ -1,0 +1,88 @@
+.bottom{
+    margin-bottom: 100px;
+}
+.fonts{
+    font-size: 15px;
+    
+    
+    
+}
+.bg-color{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    position: center;
+}
+.buy-now{
+    background-color: black;
+    border: none;
+    border-radius: 8px;
+    color: white;;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+.price{
+    color: black;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    bottom: none;
+}
+.now{
+    border: none;
+    padding: 9px 25px;
+    background-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    width: 150px;
+    text-align: center;
+}
+.font-1{
+    text-align: center;
+}
+.categories{
+    text-align: center;
+    font-style: bold;
+    background-color: white;
+    
+}
+.see-all{
+    text-align: right;
+    color: aliceblue;
+}
+.cat1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    box-shadow: 5px 5px 10px 10px lightgrey;
+    width: 300px;
+    position: relative;
+}
+.cat-img{
+    height: 50%;
+    
+}
+.cat2{
+    box-shadow: 5px 5px 10px 10px lightgrey;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    text-align: center;
+    font-size: 10px;
+}
+.cat3{
+    height: 500px;
+    width: 500px;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 8px 8px;
+    margin: 9px 25px ;
+}
